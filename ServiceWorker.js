@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-AlgolRunRemake-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js.unityweb",
-    "Build/Build.data.unityweb",
-    "Build/Build.wasm.unityweb",
+    "Build/docs.loader.js",
+    "Build/docs.framework.js.unityweb",
+    "Build/docs.data.unityweb",
+    "Build/docs.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
