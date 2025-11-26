@@ -74,8 +74,3 @@ Do not engage. Your weapons will not harm it. Your only hope is to outrun it.
 * **Engine**: Unity  
 * **Language**: C sharp  
 * **Art**: Custom pixel art assets  
-
-## 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
